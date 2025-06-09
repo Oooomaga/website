@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+
+    margin: 0;
+
+    box-sizing: border-box;
+}
+
+.logo {
+    background-color: aquamarine;
+}
+
+.logo  h2{
+    display: flex;
+
+    justify-content: center;
+}
+
+.logo h1 {
+    display: flex;
+
+    justify-content: center;
+}
+
+body {
+    background-color: bisque;
+}
+
+.mantap {
+    display: flex;
+
+    justify-content: center;
+}
+
+.mantap .input-password {
+    display: flex;
+}
+
+input {
+    width: 300px;
+    height: 50px;
+}
+
+button {
+    background-color: aqua;
+
+    color: brown;
+
+    border-radius: 5px;
+}
+
